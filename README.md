@@ -1,1 +1,1 @@
-# i-learn-shared-fronend
+# i-learn-shared-frontend
